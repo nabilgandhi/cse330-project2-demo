@@ -1,3 +1,6 @@
+### Run Command only once.
+- chmod +x demo1.sh priority_sched_update.sh
+
 ### Testcase 1
 - ./demo1.sh 1
 - sudo ./priority_sched_update.sh 1
